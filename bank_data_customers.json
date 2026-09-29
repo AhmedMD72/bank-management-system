@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Omar Nabil Hassan",
+        "id": "10001",
+        "phonenumber": "01000000001",
+        "balance": 2200,
+        "transactions": [
+            "Received Money, Amount: $1500 from Youssef Adel Karim",
+            "Deposit Money, Amount: $500",
+            "Withdrawal Money, Amount: $300"
+        ]
+    },
+    {
+        "name": "Youssef Adel Karim",
+        "id": "10002",
+        "phonenumber": "01000000002",
+        "balance": 5000,
+        "transactions": [
+            "Transfer Money, Amount: $2000 to Sara Mahmoud Ali",
+            "Transfer Money, Amount: $1500 to Omar Nabil Hassan",
+            "Deposit Money, Amount: $1500"
+        ]
+    },
+    {
+        "name": "Sara Mahmoud Ali",
+        "id": "10003",
+        "phonenumber": "01000000003",
+        "balance": 1650,
+        "transactions": [
+            "Received Money, Amount: $200 from Lina Ahmed Samir",
+            "Received Money, Amount: $50 from Karim Mostafa Adel",
+            "Withdrawal Money, Amount: $100"
+        ]
+    },
+    {
+        "name": "Karim Mostafa Adel",
+        "id": "10004",
+        "phonenumber": "01000000004",
+        "balance": 700,
+        "transactions": [
+            "Received Money, Amount: $200 from Sara Mahmoud Ali",
+            "Deposit Money, Amount: $300",
+            "Withdrawal Money, Amount: $350"
+        ]
+    },
+    {
+        "name": "Lina Ahmed Samir",
+        "id": "10005",
+        "phonenumber": "01000000005",
+        "balance": 1500,
+        "transactions": [
+            "Received Money, Amount: $100 from Karim Mostafa Adel",
+            "Deposit Money, Amount: $500",
+            "Received Money, Amount: $400 from Nour Khaled Ibrahim"
+        ]
+    },
+    {
+        "name": "Nour Ibrahim",
+        "id": "10018",
+        "phonenumber": "01000000006",
+        "balance": 9500,
+        "transactions": [
+            "Deposit Money, Amount: $500",
+            "Transfer Money, Amount: $400 to Lina Ahmed Samir",
+            "Deposit Money, Amount: $10000",
+            "Withdrawal Money, Amount: $100",
+            "Withdrawal Money, Amount: $2000",
+            "Transfer Money, Amount: $500 to Ahmed Medhat"
+        ]
+    },
+    {
+        "name": "Adam Hany Salem",
+        "id": "10007",
+        "phonenumber": "01000000007",
+        "balance": 900,
+        "transactions": [
+            "Transfer Money, Amount: $100 to Lina Ahmed Samir",
+            "Transfer Money, Amount: $200 to Karim Mostafa Adel",
+            "Received Money, Amount: $300 from Youssef Adel Karim"
+        ]
+    },
+    {
+        "name": "Ahmed Medhat",
+        "id": "40578",
+        "phonenumber": "01547896547",
+        "balance": 500,
+        "transactions": [
+            "Received Money, Amount: $500 from Nour Ibrahim"
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Omar Khaled Hassan",
+        "id": "90001",
+        "phonenumber": "01000000001",
+        "role": "system_admin"
+    },
+    {
+        "name": "Youssef Tarek Mahmoud",
+        "id": "90002",
+        "phonenumber": "01000000002",
+        "role": "operations_admin"
+    }
+]
