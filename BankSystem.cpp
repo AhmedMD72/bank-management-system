@@ -818,8 +818,6 @@ public:
 };
 class technicaloperations
 {
-private:
-    string OperationName;
 
 public:
     void createaccount()

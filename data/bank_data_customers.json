@@ -14,11 +14,13 @@
         "name": "Youssef Adel Karim",
         "id": "10002",
         "phonenumber": "01000000002",
-        "balance": 5000,
+        "balance": 4900,
         "transactions": [
             "Transfer Money, Amount: $2000 to Sara Mahmoud Ali",
             "Transfer Money, Amount: $1500 to Omar Nabil Hassan",
-            "Deposit Money, Amount: $1500"
+            "Deposit Money, Amount: $1500",
+            "Withdrawal Money, Amount: $500",
+            "Deposit Money, Amount: $400"
         ]
     },
     {
@@ -83,9 +85,22 @@
         "name": "Ahmed Medhat",
         "id": "40578",
         "phonenumber": "01547896547",
-        "balance": 500,
+        "balance": 1700,
         "transactions": [
-            "Received Money, Amount: $500 from Nour Ibrahim"
+            "Received Money, Amount: $500 from Nour Ibrahim",
+            "Received Money, Amount: $1200 from Ahmed Elsherbiny"
+        ]
+    },
+    {
+        "name": "Ahmed Elsherbiny",
+        "id": "10024",
+        "phonenumber": "01100000001",
+        "balance": 2300,
+        "transactions": [
+            "Deposit Money, Amount: $4000",
+            "Transfer Money, Amount: $1200 to Ahmed Medhat",
+            "Withdrawal Money, Amount: $300",
+            "Withdrawal Money, Amount: $200"
         ]
     }
 ]
