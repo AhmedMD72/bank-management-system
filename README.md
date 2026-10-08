@@ -63,10 +63,10 @@ cd bank-management-system
 
 ### 2. Build the Project
 
-Make sure you have a C++17-compatible compiler such as GCC installed.
+Make sure you have GCC with C++17 support installed.
 
 ```bash
-g++ -std=c++17 main.cpp src/*.cpp -Iinclude -o main
+make
 ```
 
 ### 3. Run the Program
@@ -103,7 +103,3 @@ Customer balances, personal information, and transaction history are stored pers
 - Customer and administrator information is stored using JSON files.
 - The project was developed to practice C++ Object-Oriented Programming and multi-file project organization.
 - The project is currently console-based.
-
-## Author
-
-Developed by Ahmed Medhat.
